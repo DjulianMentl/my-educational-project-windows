@@ -1,2 +1,2 @@
 # my-test-project
-My mini project
+Create a mini site
