@@ -1,2 +1,2 @@
-# my-test-project
+# my-test-project-windows
 Create a mini site
